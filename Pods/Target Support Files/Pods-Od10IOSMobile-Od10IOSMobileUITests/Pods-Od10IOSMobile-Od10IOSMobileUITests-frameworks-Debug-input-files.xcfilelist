@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Od10IOSMobile-Od10IOSMobileUITests/Pods-Od10IOSMobile-Od10IOSMobileUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

@@ -1,0 +1,6 @@
+framework module Pods_Od10IOSMobile {
+  umbrella header "Pods-Od10IOSMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Od10IOSMobileTests {
+  umbrella header "Pods-Od10IOSMobileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
